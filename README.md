@@ -9,11 +9,6 @@ You are an expert frontend developer and UI/UX designer. Your task is to generat
 - Hero text: "A new era<br>of imagination" – SF Pro Display, 108px, white
 - Subtitle: "Discover a whole new world..." – Poppins, 24px
 - Buttons: "Start designing for free" (white), "Explore our launches" (dark glass)
-- Bottom graphics: 4 static 3D-style shapes (no animation):
-   1. Pink blob (left)
-   2. Purple circle
-   3. "T" in rounded square
-   4. Blue circle (right)
 - Fully responsive (mobile: stack buttons, hide nav links, scale shapes)
 - No JS. No Tailwind. No Bootstrap.
 
@@ -31,5 +26,6 @@ Generate complete, copy-pasteable `<html>` file with:
 - Optimize for performance
 - Add subtle shadows and glassmorphism where needed
 - Keep code readable and maintainable
+
 
 Output only the full HTML file. No explanation unless asked.
